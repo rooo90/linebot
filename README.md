@@ -1,1 +1,2 @@
-# linebot
+# Probot ✨
+Epic Discord Bot
